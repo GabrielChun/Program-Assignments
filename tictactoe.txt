@@ -1,0 +1,26 @@
+alarm clock
+Start
+1. set alarms 
+    1a. Schedule
+        1a1. Day you want to set the alarm
+            - Creates a one time alarm
+            - Can make the alarm daily, weekly, etc.
+        1a2. The time, AM/PM
+            -Make noise at certain time
+    1b. History
+        - Stores all alarms that have been set in the past
+    1c. On/Off
+        - Has a switch that can turn previously set alarms, on
+        - Has a switch that can turn off already set alarms
+    1d. Sound
+        - Catelog of different sounds available
+    1e. Deleting
+        - Choice to delete alarms from history
+
+2. Stopping noise
+    -Pressing a button to stop the noise
+    2a. Snooze
+        2a1- Sets another alarm for a certain amount of time
+            - Snooze again, start the alarm over again
+        2a2- Stop alarm completely
+End

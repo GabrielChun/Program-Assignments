@@ -1,6 +1,0 @@
-gooners=["Gabe", "Hassan", "Felix", "Aiden", "Gabe"]
-print(gooners)
-print(type(gooners))
-goons={"Gabe", "Hassan", "Felix", "Aiden", "Gabe"}
-print(goons)
-print(type(goons))
